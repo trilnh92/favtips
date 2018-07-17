@@ -1,0 +1,2 @@
+# favtips
+The favorite tips
